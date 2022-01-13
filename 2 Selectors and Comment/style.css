@@ -1,0 +1,16 @@
+/* Element Selector */
+p {
+  color: red;
+}
+/* id Selector */
+#css-p {
+  color: blue;
+}
+/* class Selector */
+.green-text {
+  color: green;
+}
+/* 
+#heading {
+  text-align: center;
+} */

@@ -1,0 +1,13 @@
+body{
+  border: 1px solid green;
+  height: 720px;
+}
+#div1{
+  background-color: steelblue;
+  /* height: 50%; */
+  width: 10%;
+  max-width: 500px;
+  max-height: 300px;
+  min-width: 1080px;
+  min-height: 300px;
+}

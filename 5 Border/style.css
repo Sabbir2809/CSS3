@@ -1,0 +1,14 @@
+#border{
+  /* border-style: solid dotted;
+  border-width: 5px 7px 2px 6px;
+  border-color: powderblue, red, green, blue; */
+
+  border: 5px solid green;
+
+  /* border-top-style: solid;
+  border-top-width: 10px;
+  border-top-color: red; */
+
+  border-radius: 10px 20px 30px 5px;
+
+}
