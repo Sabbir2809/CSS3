@@ -1,13 +1,16 @@
 body{
-  border: 1px solid green;
-  height: 720px;
+  border: 5px solid red;
+  height: 520px;
 }
+
 #div1{
   background-color: steelblue;
-  /* height: 50%; */
-  width: 10%;
-  max-width: 500px;
-  max-height: 300px;
-  min-width: 1080px;
-  min-height: 300px;
+  width: 50%;
+  height: 50%;
+
+  /* max-width: 1040px;
+  max-height: 720px;
+
+  min-width: 240px;
+  min-height: 360px; */
 }
