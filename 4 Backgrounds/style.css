@@ -1,14 +1,16 @@
 #bg {
-  /* background-color: powderblue; */
-  background-image: url("../dream-bg.png"), url(../exp-bg.png);
+  background-color: powderblue;
+  background-image: url("../dream-bg.png"), url("../exp-bg.png");
   background-repeat: no-repeat;
-  background-position: left top, right top;
-  /* background-position: center 10%; */
-  /* background-size: contain; */
-  /* background-attachment: cover; */
-  /* background: white url('../CSS.jpg') no-repeat fixed 5% 10%; */
+  background-position: left top, right bottom;
+  /* background-attachment: cover;
+  background-size: contain; */
 }
 
-/* body {
-  background-color: powderblue;
+/* #bg{
+  background: white url('../CSS.jpg') no-repeat fixed 50% 50%;
 } */
+
+body {
+  background-color: darkcyan;
+}
