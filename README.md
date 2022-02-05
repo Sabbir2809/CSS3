@@ -2,9 +2,9 @@
 
 ### I'm learning Full-Stack Web Development. It's a 365-Day Challenge. I want to share with all of you what I have learned from this topic.
 
-🟢 CSS stands for Cascading Style Sheets
+✅ CSS stands for Cascading Style Sheets
 
-🟢 CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+✅ CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 
 ✅ CSS saves a lot of work. It can control the layout of multiple web pages all at once
 
@@ -104,12 +104,12 @@
 
 ➡️ Advance Selector
 
-🟢 Specificity
+➡️ Specificity
 
-🟢 Multiple Columns
+➡️ Multiple Columns
 
-🟢 Flexbox
+➡️ Flexbox
 
-🟢 Grid
+➡️ Grid
 
-🟢 Validations
+➡️ Validations
